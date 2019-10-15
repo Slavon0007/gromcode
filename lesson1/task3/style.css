@@ -3,7 +3,7 @@
 }
 
 .asd {
-    display: list-item;
+    display: table-column;
     width: 200px;
     height: 100px;
     background-color: yellow;
