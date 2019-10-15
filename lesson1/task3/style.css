@@ -1,10 +1,9 @@
-div {
-    display: inline;
+.line {
+    display: inline-block;
 }
 
-span {
+.block {
     display: block;
-    float: left;
     width: 200px;
     height: 100px;
     background-color: yellow;
