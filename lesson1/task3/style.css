@@ -1,0 +1,10 @@
+.qwe {
+    display: inline-block;
+}
+
+.asd {
+    display: block;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
