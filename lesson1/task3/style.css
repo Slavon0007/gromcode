@@ -3,7 +3,8 @@
 }
 
 .asd {
-    display: table-column;
+    display: flex;
+    flex-flow: column wrap;
     width: 200px;
     height: 100px;
     background-color: yellow;
