@@ -1,9 +1,9 @@
 .qwe {
-    display: inline-block;
+    display: inline;
 }
 
 .asd {
-    display: block;
+    display: table;
     width: 200px;
     height: 100px;
     background-color: yellow;
